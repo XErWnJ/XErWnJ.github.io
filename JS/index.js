@@ -535,12 +535,12 @@ $(function () {
     typeSpeed: 100,
   });
   $("#quote2").typed({
-    strings: ["UTAR Life is fantastic"],
+    strings: ["ThE PoTaSiUm CyAnidE"],
     typeSpeed: 100,
     loop: false,
   });
   $("#quote3").typed({
-    strings: ["Goh Jun Xiang"],
+    strings: ["I'm XErWnJ"],
     typeSpeed: 100,
     loop: true,
   });
